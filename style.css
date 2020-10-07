@@ -9,20 +9,29 @@ body {
 }
 
 #background {
-
+    margin: 180px auto;
+}
+#title {
+    text-align: center;
+}
+#description {
+    text-align: center;
+    margin: 34px auto;
 }
 
 #survey-container {
-    margin: 300px;
+    margin: 0 300px;
 }
 #survey-form {
     background-color: rgba(27, 27, 50, 0.973);
     padding: 30px;
+    border-radius: 32px;;
 }
 
 .block {
     display: block;
 }
+
 
 
 
