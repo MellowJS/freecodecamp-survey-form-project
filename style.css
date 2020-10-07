@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgba(27, 27, 50, 0.781);
+    color: white;
+}
+
+#background {
+
+}
+
+#survey-container {
+    margin: 300px;
+}
+#survey-form {
+    background-color: rgba(27, 27, 50, 0.973);
+    padding: 30px;
+}
+
+.block {
+    display: block;
+}
+
+
+
+
+
